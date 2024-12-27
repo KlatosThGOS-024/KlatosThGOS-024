@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rasul;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Priyanshu;Be+Welcome!+%3A))](https://git.io/typing-svg)
 <a href="https://discord.gg/5dZPVytKnn">
     <h3 align="center">
         <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
