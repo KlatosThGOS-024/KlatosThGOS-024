@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Priyanshu;Be+Welcome!+%3A))](https://git.io/typing-svg)
-
-
+<div align="center">
+    <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Priyanshu;Be+Welcome!+%3A)" alt="Typing SVG"</a>
+</div>
 <a href="https://discord.gg/5dZPVytKnn">
     <h3 align="center">
         <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
-        Back-end Developer
+        Full-stack Developer
     </h3>
 </a>
 Hi! I am a full-stack developer with experience building and maintaining high-performance, robust web applications. My expertise spans both front-end and back-end development, with a strong focus on delivering scalable and efficient solutions.
