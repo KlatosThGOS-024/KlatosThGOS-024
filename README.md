@@ -9,11 +9,8 @@
         Full-stack Developer
     </h3>
 </a>
-Hi! I am a full-stack developer with experience building and maintaining high-performance, robust web applications. My expertise spans both front-end and back-end development, with a strong focus on delivering scalable and efficient solutions.
-I have a solid background in Python, using frameworks like FastAPI and Django to create secure and efficient server-side applications. I am also skilled in working with databases such as PostgreSQL and MongoDB, building APIs, and ensuring seamless integration between the front and back end.
-
-On the front-end, I work with modern JavaScript frameworks like React to create intuitive and responsive user interfaces. I am comfortable with version control using Git and have experience working in Agile development environments.
-I am enthusiastic about cybersecurity and aim to deepen my knowledge in this field as I grow. My goal is to merge my development expertise with my growing interest in security to build applications that are not just functional but also secure.
+Full-stack developer skilled in Python (FastAPI, Django), JavaScript (React), and databases (PostgreSQL, MongoDB).
+Experienced in building scalable APIs and secure web apps. Also proficient in Solidity & Rust. Passionate about cybersecurity. 🚀
 
 
 
